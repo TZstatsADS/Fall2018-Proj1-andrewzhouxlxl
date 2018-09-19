@@ -2,27 +2,27 @@
 ## Fall 2018
 ## Project 1: What made you happy today?
 
-![image](figs/title.jpeg)
+![image](figs/title.gif)
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2018
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: What made you happy today?
++ This project is conducted by zhibo zhou (zz2520)
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: The  purpose of this project is to understand what behaviors make people happy. With the help of HappyDB dataset(a corpus of 100,000 happy moments),
+my project describes the dataset at begining, and implement the NLP method to topiclize the dataset and use the topics to answer the source of happiness.
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
-```
+
 proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
-```
+├── [lib](./lib)/
+├── [data](./data)/
+├── [doc](./doc)/
+├── [figs](./figs)/
+└── [output](./output)/
+
 
 Please see each subfolder for a README file.
